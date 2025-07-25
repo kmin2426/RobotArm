@@ -6,3 +6,4 @@ Module
 - Speaker: ISD1820
 - Bluetooth: HC-06
 - Power: PCA9685
+- Arduino: ATmega328p
